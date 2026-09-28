@@ -22,17 +22,14 @@
 | [raicom-2026-sim](https://github.com/kanuba0814/raicom-2026-sim) | 睿抗 2026 工业组（全国三等奖）：工位视觉、圆台停靠、速度闸门与健康看门狗，230 个测试 |
 | [cam-imu-sync](https://github.com/kanuba0814/cam-imu-sync) | 相机 / IMU 确定性时间同步：Kalibr timeshift 跨启动极差从 972 ms 降到 2.48 ms |
 | [ORB_SLAM3_ROS2](https://github.com/kanuba0814/ORB_SLAM3_ROS2) | ORB-SLAM3 ROS 2 封装的 fork：107 个提交，修复 H30 IMU 单目惯性模式的稳定性问题 |
-| [kicad-headless](https://github.com/kanuba0814/kicad-headless) | KiCad 10 源码编译、PNS 补丁与 AI 布线桥接（scout → oracle → worker 流水线） |
-| [pushWegit](https://github.com/kanuba0814/pushWegit) · [back-board](https://github.com/kanuba0814/back-board) | ESP32-P4 舵机送料机构 · 智能家居边缘控制器基线 |
+| [pushWegit](https://github.com/kanuba0814/pushWegit) | 学习 ESP-IDF / LVGL 时的小练习：ESP32-P4 舵机送料机构 |
+| [kicad-headless](https://github.com/kanuba0814/kicad-headless) | （已搁置）KiCad 10 源码编译与 PNS 布线补丁，按 scout → oracle → worker 三段式推进到 Patch 4 |
 
 ## AI Agent 工具
 
 | 项目 | 简介 |
 |---|---|
 | [agent-workflow](https://github.com/kanuba0814/agent-workflow) | 我的多模型 Agent 配置：角色分工、执行合同、权限与审计扩展、双模式安装与验证 |
-| [cc-switch-more](https://github.com/kanuba0814/cc-switch-more) | CC Switch（Tauri + React）的 fork：修复拖拽排序竞态、监听器清理和空搜索索引问题，附 20 个回归测试 |
-| [mumu-cc](https://github.com/kanuba0814/mumu-cc) | 把 MuMuAINovel 移植成 Claude Code 原生的写作系统 |
-| [ti2ved](https://github.com/kanuba0814/ti2ved) | 中文小说片段 → 镜头级分镜 + i2v 运动提示词的改编管线，含风格评估与 Blender MCP 实验 |
 | [pi-truenas](https://github.com/kanuba0814/pi-truenas) | Pi 的 TrueNAS SCALE JSON-RPC 扩展 |
 
 ## 应用、数据与基础设施
